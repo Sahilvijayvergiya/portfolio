@@ -124,7 +124,7 @@ link: https://twitter.com/https://twitter.com/sahilvi5077161?s=21
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/sahilvijayvergiya
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Sahil vijayvergiya,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:sahilvijay.it26@jecrc.ac.in
 
 -- button.primary:
 title: Schedule a Meeting
@@ -215,7 +215,7 @@ link: https://twitter.com/https://twitter.com/sahilvi5077161?s=21
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/
+link: https://github.com/Sahilvijayvergiya
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
